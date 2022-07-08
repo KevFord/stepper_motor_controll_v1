@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "C:/gowin_fpga/stepper_motor_controll_v1/src/top_level.vhd",
+  "InstLine" : 6,
+  "InstName" : "top_level",
+  "ModuleFile" : "C:/gowin_fpga/stepper_motor_controll_v1/src/top_level.vhd",
+  "ModuleLine" : 6,
+  "ModuleName" : "top_level"
+ }
+]
